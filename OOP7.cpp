@@ -16,7 +16,7 @@ public:
 };
 
 class SportPerson : public Person {
-    string spname="Cricket";
+    string spname="Volleyball";
 
 public:
     void displaySport() {
@@ -39,6 +39,6 @@ int main() {
     return 0;
 }
 //Expected Output:
-//Enter Name: Shresth 
-//Name: Shresth
-//Sport Name: Cricket
+//Enter Name: Piyush
+//Name: Piyush
+//Sport Name: Volleyball
