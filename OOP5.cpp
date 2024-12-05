@@ -48,28 +48,28 @@ int main()
 
 }
 //Expected Output:
-//Enter Name:Shresth
+//Enter Name:Piyush
 
-//Enter Name:Tejas
+//Enter Name:Tarun
 
-//Enter Name:Anubhav
+//Enter Name:Rakesh
 
-//Enter Name:Siddharth
+//Enter Name:Ram
 
-//Enter Name:Aditya
+//Enter Name:Kunal
 
-//Name:Shresth
-//Roll Number:3001
+//Name:Piyush
+//Roll Number:1001
 //Percentage:100
-//Name:Tejas
-//Roll Number:3002
+//Name:Tarun
+//Roll Number:1002
+//Percentage:65
+//Name:Rakesh
+//Roll Number:1003
 //Percentage:77
-//Name:Anubhav
-//Roll Number:3003
-//Percentage:82
-//Name:Siddharth
-//Roll Number:3004
-//Percentage:63
-//Name:Aditya
-//Roll Number:3005
+//Name:Ram
+//Roll Number:1004
+//Percentage:87
+//Name:Kunal
+//Roll Number:1005
 //Percentage:80
